@@ -1,0 +1,7 @@
+Amazon Sales Pivot Insights
+Top category by sales is Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions
+Lowest category by sales is Electronics|Mobiles&Accessories|MobileAccessories|Mounts|Shower&WallMounts
+Total categories analyzed: 211
+Highest category sales value: ₹1,564,932
+Discounted price used as sales proxy
+Majority sales come from Electronics-related categories
